@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blue;
+}
+
+.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.recepies {
+    border: 5px solid blueviolet ;
+}
